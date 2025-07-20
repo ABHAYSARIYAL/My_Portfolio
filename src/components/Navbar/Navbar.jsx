@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { FiMenu, FiX } from "react-icons/fi";
-import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -90,7 +90,7 @@ const Navbar = () => {
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-white"
           >
-            <FaGithub size={24} />
+            <FaInstagram size={24} />
           </a>
         </div>
 
