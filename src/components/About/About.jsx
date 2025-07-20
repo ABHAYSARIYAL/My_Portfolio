@@ -40,7 +40,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            Passionate MCA student with strong skills in C, Python, and Cloud. Experienced in developing robust applications and managing databases. Seeking an internship to apply my knowledge and contribute to innovative projects while gaining hands-on industry experience.
+            Passionate MCA student with strong skills in C, Python, Javascripts and Cloud. Experienced in developing robust applications and managing databases. Seeking an internship to apply my knowledge and contribute to innovative projects while gaining hands-on industry experience.
           </p>
           {/* Resume Button */}
           <a
