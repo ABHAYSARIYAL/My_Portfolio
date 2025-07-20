@@ -47,7 +47,7 @@ const Navbar = () => {
         <div className="text-lg font-semibold cursor-pointer">
           <span className="text-[#8245ec]">&lt;</span>
           <span className="text-white">Abhay</span>
-          <span className="text-[#8245ec]">/</span>
+          <span className="text-[#8245ec]"> </span>
           <span className="text-white">Sariyal</span>
           <span className="text-[#8245ec]">&gt;</span>
         </div>
@@ -136,6 +136,14 @@ const Navbar = () => {
                 className="text-gray-300 hover:text-white"
               >
                 <FaLinkedin size={24} />
+              </a>
+              <a
+                href="https://www.instagram.com/abhay_sariyal_142?igsh=MTZ4eXZjdndmZmo0Zg=="
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-300 hover:text-white"
+              >
+                <FaGithub size={24} />
               </a>
             </div>
           </ul>
