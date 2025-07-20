@@ -173,7 +173,7 @@ export const projects = [
       "A FastAPI-based backend application built for HROne’s internship challenge. It offers APIs to manage products and orders, connected with a MongoDB Atlas database. The project includes complete CRUD support, filtering, and pagination, and is deployed on Render.",
     image: movierecLogo, 
     tags: ["FastAPI", "MongoDB", "Python", "Render", "REST API"],
-    github: "https://github.com/abhayssariyal/hrone-task", 
+    github: "https://github.com/abhaysariyal/hrone-task", 
     webapp: "https://hrone-task-api.onrender.com/docs", 
   },
   {
