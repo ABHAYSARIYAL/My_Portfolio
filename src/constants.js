@@ -173,8 +173,8 @@ export const projects = [
       "A FastAPI-based backend application built for HROne’s internship challenge. It offers APIs to manage products and orders, connected with a MongoDB Atlas database. The project includes complete CRUD support, filtering, and pagination, and is deployed on Render.",
     image: movierecLogo, 
     tags: ["FastAPI", "MongoDB", "Python", "Render", "REST API"],
-    github: "https://github.com/abhaysariyal/hrone-task", 
-    webapp: "https://hrone-task-api.onrender.com/docs", 
+    github: "https://github.com/ABHAYSARIYAL/HrOne_task.git", 
+    webapp: "https://hrone-task.onrender.com/docs", 
   },
   {
   id: 4,
@@ -183,7 +183,7 @@ export const projects = [
     "A secure and scalable backend system for HRM platforms built using Express.js and MongoDB. It features a multi-tenant architecture with company-based isolation, JWT authentication, and role-based access control (RBAC). Key functionalities include company registration, user onboarding via company ID, guest approval workflow, and protected API routes.",
   image: taskremLogo, // Replace with your actual image import or path
   tags: ["Express.js", "MongoDB", "JWT", "RBAC", "REST API"],
-  github: "https://github.com/abhay-sariyal/hrm-rolebased-auth", // Replace with your actual GitHub link
+  github: "https://github.com/manindra-455/task.git", // Replace with your actual GitHub link
   webapp: "https://your-deployment-url.com/docs" // Replace with your API docs or deployment if hosted
 }
 ,
