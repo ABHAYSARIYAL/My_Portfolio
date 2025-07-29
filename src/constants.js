@@ -195,7 +195,7 @@ export const projects = [
     image: imagesearchLogo,
     tags: ["React JS", "API","Express.js", "CornJob", "Search Feature", "CSS", "Javascript"],
     github: "https://github.com/ABHAYSARIYAL/crypto-tracker.git",
-    webapp: "https://abhayportfolio-six.vercel.app/",
+    webapp: "https://crypto-tracker-seven-ecru.vercel.app/",
   },
   {
     id: 8,
