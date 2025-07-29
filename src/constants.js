@@ -191,7 +191,7 @@ export const projects = [
     id: 7,
     title: "Crypto Tracker",
     description:
-      "A React.js-based image search application that allows users to search and download high-quality images from the web. Built using external APIs to ensure a vast library of results for various queries.",
+      "Crypto Tracker Dashboard is a full-stack web application that displays real-time data of the top 10 cryptocurrencies using the CoinGecko API. It allows users to search and sort coins by price or market cap and automatically stores hourly snapshots in a MongoDB database for historical tracking.",
     image: imagesearchLogo,
     tags: ["React JS", "API","Express.js", "CornJob", "Search Feature", "CSS", "Javascript"],
     github: "https://github.com/ABHAYSARIYAL/crypto-tracker.git",
